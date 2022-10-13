@@ -1,3 +1,3 @@
-##Social Login
+## Social Login
 
-Add the following code to the 
+Completed google login
